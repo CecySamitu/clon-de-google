@@ -21,13 +21,14 @@ HTML trabaja de la mano con CSS para crear las páginas web que usamos todos los
 ****
 
 ## 2. Demo
+
+![imagen]("./../imagenes/Demo.png)
+
 Te dejo un enlace a mi demo para que puedas inspirarte: [https://eloquent-platypus-cb196d.netlify.app/](https://eclectic-hummingbird-d33c09.netlify.app/)
 
 Como puedes ver esta demo tiene cosas buenas y malas, pero la idea es que te inspires y que puedas hacerlo también.
 
 **¡Quizá no te quede idéntico o quizá te quede mucho mejor que este demo🤩**, utiliza tu destreza y aprendizaje para que demuestres que tu futuro es ser un(a) programador(a) web.👩🏻💻👦🏻
-
-![imagen]("./../imagenes/Demo.png)
 
 ****
 
