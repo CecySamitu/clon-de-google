@@ -8,7 +8,7 @@ Se utilizo la intefaz gráfica del navegador de google para poner en práctica l
 
 * [1. Introducción](https://github.com/CecySamitu/clon-de-google/blob/main/README.md#1introducci%C3%B3n)
 * [2. Demo](https://github.com/CecySamitu/clon-de-google/blob/main/README.md#2-demo)
-* [3. ¿Qué se construye?](https://github.com/CecySamitu/clon-de-google/blob/main/README.md#2-demo)
+* [3. ¿Qué se construye?](https://github.com/CecySamitu/clon-de-google/blob/main/README.md#3-qu%C3%A9-se-construye)
 * [4. Objetivos de aprendizaje](https://github.com/CecySamitu/clon-de-google/blob/main/README.md#4-objetivos-de-aprendizaje)
 * [5. Requisitos](https://github.com/CecySamitu/clon-de-google/blob/main/README.md#4-objetivos-de-aprendizaje)
 
